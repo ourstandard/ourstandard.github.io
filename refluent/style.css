@@ -30,3 +30,14 @@ p {
   color: #666;
   margin-top: 2rem;
 }
+
+.message-block {
+  margin-bottom: 2rem;
+}
+.message {
+  font-size: 1.05rem;
+  margin-bottom: 1.5rem;
+  font-style: italic;
+  line-height: 1.7;
+}
+
